@@ -1,0 +1,9 @@
+{
+  "name": "PathShare final",
+  "description": "A hyper-local, peer-to-peer ride-sharing platform connecting vehicle owners with commuters on the same route to reduce traffic and travel costs.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
